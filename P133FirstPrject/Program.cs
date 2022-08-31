@@ -66,6 +66,33 @@ namespace P133FirstPrject
             //}
 
             //byte i = 10;
+
+            //while (i <= 10)
+            //{
+            //    if (i % 2 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+
+            //    i++;
+            //}
+
+            //byte j = 0;
+
+            //do
+            //{
+            //    Console.WriteLine("Sert Odemir");
+            //} while (j > 0);
+
+            //while (j > 0)
+            //{
+            //    Console.WriteLine("Sert Odemir while");
+            //}
+            //Test Remote Changed
+            //for (int ij = 0; ij < 5; ij++)
+            //{
+            //    Console.WriteLine(ij);
+            //}
         }
     }
 }

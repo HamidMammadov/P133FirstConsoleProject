@@ -93,8 +93,6 @@ namespace P133FirstPrject
             //{
             //    Console.WriteLine(ij);
             //}
-
-            int a = 255;
         }
     }
 }

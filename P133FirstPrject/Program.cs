@@ -88,7 +88,7 @@ namespace P133FirstPrject
             //{
             //    Console.WriteLine("Sert Odemir while");
             //}
-
+            //Test Remote Changed
             //for (int ij = 0; ij < 5; ij++)
             //{
             //    Console.WriteLine(ij);
